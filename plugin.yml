@@ -1,0 +1,16 @@
+name: Rename
+main: Rename\Main
+version: 1.0.0
+api: 5.0.0
+author: ZyberPE
+description: Rename items using XP levels.
+commands:
+  rename:
+    description: Rename the item in your hand
+    usage: /rename <name>
+    permission: rename.use
+permissions:
+  rename.use:
+    default: true
+  rename.bypass:
+    default: op
