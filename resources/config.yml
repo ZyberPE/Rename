@@ -1,0 +1,8 @@
+xp-cost-levels: 30
+
+messages:
+  no-item: "§cYou must hold an item to rename it."
+  confirm: "§eRenaming this item will cost {cost} XP levels. Type §a/rename §eto confirm."
+  not-enough-xp: "§cYou do not have enough XP levels. Required: {cost}."
+  success: "§aItem successfully renamed!"
+  bypass: "§aItem renamed for free (bypass permission)."
